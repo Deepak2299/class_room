@@ -1,0 +1,17 @@
+{
+  "assignments": [
+    {
+      "class": 6,
+      "name": "History Assignment",
+      "information": "1",
+      "date": "June 01 2020"
+    },
+    {
+      "class": 9,
+      "name": "English test",
+      "information": "1",
+      "date": "June 01 2020"
+    }
+
+  ]
+}

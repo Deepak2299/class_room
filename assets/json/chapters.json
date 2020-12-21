@@ -1,0 +1,28 @@
+{
+  "chapters": [
+    {
+      "class": 8,
+      "chapter": 3,
+      "name": "Square and Square Root",
+      "information": "1"
+    },
+    {
+      "class": 6,
+      "chapter": 4,
+      "name": "Integers",
+      "information": "2"
+    },
+    {
+      "class": 7,
+      "chapter": 5,
+      "name": "Sequence",
+      "information": "3"
+    },
+    {
+      "class": 10,
+      "chapter": 6,
+      "name": "Trigonometry",
+      "information": "4"
+    }
+  ]
+}
